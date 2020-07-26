@@ -1,0 +1,22 @@
+.main-header img{
+    width: 100%;
+    height: 100%;
+}
+
+.main-header .demand{
+    color: #ffffff;
+    background: #000000;
+}
+
+.main-header .menu-item{
+    width: 30%;
+}
+
+.main-header .menu-item:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+#home .bg-success{
+    background: cornflowerblue !important;
+}
